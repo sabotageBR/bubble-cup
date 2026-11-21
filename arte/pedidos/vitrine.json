@@ -1,0 +1,31 @@
+[
+ {
+  "id": "thumb",
+  "modo": "editar",
+  "aspecto": "1:1",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/bruto/canhoes.jpg"
+  ],
+  "prompt": "Square game thumbnail in the same art style as the first image: the orange spotted pufferfish from the first image, big and close in the lower left, cheeks puffed, blowing a glossy red pearl upward; above it a big cluster of glossy round pearls (red, yellow, blue, green, violet) bursting with sparkles and a cascade of pearls falling; the confident little blue shark from the first image peeking from the right edge with its own pearl. Deep saturated blue water with a darker navy vignette around the edges so the characters pop, warm light rays from the top. Bold simple composition that reads at a tiny size. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-16x9",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Wide cover art in the same art style and with the same two characters: keep the face-off between the orange pufferfish and the little blue shark and the big cluster of glossy colorful pearls bursting with a cascade of falling pearls, but move all of them to the right 60% of the image; the left 40% is open calm turquoise water with soft light rays and only a few small air bubbles (empty space for a title). Coral reef along the bottom. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/bruto/fundo-estadio-9x16.jpg"
+  ],
+  "prompt": "Tall vertical cover art (9:16) in the same art style as the first image, using the coral reef look of the second image: the top third is open turquoise water with light rays and only a few small air bubbles (empty space for a title); in the middle a big cluster of glossy colorful pearls bursting with sparkles and pearls falling; in the bottom half the orange spotted pufferfish (left) and the little blue shark (right) from the first image face each other, each with a glossy pearl, on a sandy reef floor with corals. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]

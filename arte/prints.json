@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "queda-grande",
+  "tamanho": "paisagem",
+  "params": "novo&lang=en",
+  "esperar": 1050,
+  "js": "__jogo.atirarMelhor()"
+ },
+ {
+  "nome": "copa-paisagem",
+  "tamanho": "paisagem",
+  "params": "novo&lang=en&copa=1&semente=44&auto",
+  "esperar": 1300
+ },
+ {
+  "nome": "copa-retrato",
+  "tamanho": "retrato",
+  "params": "novo&lang=en&copa=2&semente=77&auto",
+  "esperar": 1300
+ },
+ {
+  "nome": "aventura-paisagem",
+  "tamanho": "paisagem",
+  "params": "novo&lang=en&fase=21",
+  "esperar": 2500
+ },
+ {
+  "nome": "chave",
+  "tamanho": "retrato",
+  "params": "novo&lang=en&copa=1&rodada=1&tela=chave&semente=5",
+  "esperar": 2500
+ },
+ {
+  "nome": "aventura",
+  "tamanho": "retrato",
+  "params": "novo&lang=en&fase=13",
+  "esperar": 2500
+ },
+ {
+  "nome": "hub",
+  "tamanho": "retrato",
+  "params": "novo&lang=en&tela=hub",
+  "esperar": 2500
+ },
+ {
+  "nome": "trofeus",
+  "tamanho": "paisagem",
+  "params": "novo&lang=en&tela=trofeus",
+  "esperar": 2500
+ }
+]

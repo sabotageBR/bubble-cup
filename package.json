@@ -1,0 +1,29 @@
+{
+  "name": "bubble-cup",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Bubble Cup: bubble shooter num recife de coral com copas contra rivais-bot (chave de 8, partidas de 2 min lado a lado), liga, aventura e sala de troféus. Poki, CrazyGames e californiagames.io.",
+  "type": "module",
+  "config": {
+    "porta": 5450
+  },
+  "kit": {
+    "trocas": {},
+    "ids": {
+      "y8": {
+        "appId": "6b00daa877e93571d5251179",
+        "gameId": "294563"
+      }
+    }
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "servir": "node tools/servir.mjs",
+    "lan": "node tools/servir.mjs --lan",
+    "empacotar": "npm test && node tools/empacotar.mjs --alvo=todos",
+    "verificar": "node tools/verificar-build.mjs --alvo=todos",
+    "grok": "node tools/grok.mjs",
+    "sprite": "node tools/sprite.mjs",
+    "bot": "node tools/bot.mjs"
+  }
+}

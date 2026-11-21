@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Bubble Cup</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="src/ui/kit.css">
+<link rel="stylesheet" href="src/ui/jogo.css">
+<!-- SDK do portal (a unica tag externa; o tools/empacotar.mjs troca a linha de baixo por alvo). -->
+<script src="/sdk/v1/plataforma-sdk.js"></script>
+</head>
+<body>
+<div id="carregando" role="status"><div><div class="logo" data-t="titulo">Bubble Cup</div><div class="barra"><i></i></div></div></div>
+<div id="palco"><canvas id="tela"></canvas></div>
+<div id="camada">
+  <button id="btPausa" class="botao-icone" type="button" data-t-aria="pausa">❚❚</button>
+  <div id="dica" class="dica" hidden></div>
+  <button id="btSeguir" class="botao forte" type="button" data-t="seguir" hidden style="position:absolute;left:50%;bottom:12%;transform:translateX(-50%)">Continue ▶</button>
+</div>
+<div id="menu" class="camada-ui" hidden>
+  <div class="painel" role="dialog" aria-modal="true" aria-labelledby="menuTitulo">
+    <h2 id="menuTitulo" data-t="pausa">Paused</h2>
+    <button id="btContinuar" class="botao forte" type="button" data-t="continuar">Continue</button>
+    <button id="btRecifeMenu" class="botao" type="button" data-t="recife">Reef</button>
+    <button id="btSom" class="botao" type="button" aria-pressed="true" data-t="som">Sound</button>
+  </div>
+</div>
+<div id="telaUi" class="camada-ui tela" hidden></div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

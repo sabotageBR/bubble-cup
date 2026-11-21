@@ -1,0 +1,60 @@
+[
+ {
+  "id": "fundo-fossa-16x9",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/fundo-jardim-16x9.jpg"
+  ],
+  "prompt": "Repaint this exact scene at night in a deep ocean trench, same composition and art style: very dark navy and deep violet water, no sunlight and no light rays, the corals along the sides now glow with cyan, violet and soft yellow bioluminescent light, glowing sea mushrooms and tiny glowing plankton dots, dark blue sand at the bottom. The middle stays open and empty. No characters, no fish, no pearls. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-estadio-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/bruto/fundo-estadio-16x9.jpg",
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Repaint the first image as a tall vertical portrait (9:16) phone game background in the same art style: an underwater coral reef arena with colorful corals, sea fans and seaweed on the sides and light rays from the top. The whole middle area is open calm water with nothing in it (room for the game board); decorations only along the far left and right edges and a strip of sand at the very bottom. No characters, no fish, no pearls, no balls, no bubbles in the middle. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-jardim-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/bruto/fundo-jardim-16x9.jpg",
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Repaint the first image as a tall vertical portrait (9:16) phone game background in the same art style: a sunny shallow coral garden with branching corals, sea anemones and starfish on rocks, light rays from above. The whole middle area is open calm water with nothing in it (room for the game board); decorations only along the far left and right edges and a strip of sand at the very bottom. No characters, no fish, no pearls, no balls, no bubbles in the middle. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-algas-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/bruto/fundo-algas-16x9.jpg",
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Repaint the first image as a tall vertical portrait (9:16) phone game background in the same art style: a kelp forest with tall swaying green and golden kelp along the sides, rocks and corals at the bottom, golden light rays. The whole middle area is open calm water with nothing in it (room for the game board); decorations only along the far left and right edges and a strip of sand at the very bottom. No characters, no fish, no pearls, no balls, no bubbles in the middle. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-navio-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/bruto/fundo-navio-16x9.jpg",
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Repaint the first image as a tall vertical portrait (9:16) phone game background in the same art style: a sunken old wooden shipwreck, broken wooden hull and mast along the sides, barrels and corals growing on the wood, soft blue light, no flags, no symbols. The whole middle area is open calm water with nothing in it (room for the game board); decorations only along the far left and right edges and a strip of sand at the very bottom. No characters, no fish, no pearls, no balls, no bubbles in the middle. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-fossa-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/bruto/fundo-fossa-16x9.jpg",
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Repaint the first image as a tall vertical portrait (9:16) phone game background in the same art style: a deep ocean trench at night, very dark navy and violet water, no light rays, glowing cyan and violet bioluminescent corals and sea mushrooms along the sides and bottom, tiny glowing plankton. The whole middle area is open calm water with nothing in it (room for the game board); decorations only along the far left and right edges and a strip of sand at the very bottom. No characters, no fish, no pearls, no balls, no bubbles in the middle. Style: polished 2D cartoon mobile-game illustration, chunky rounded shapes, thick smooth dark navy outlines, two-tone cel shading with glossy highlights, bright tropical coral-reef palette (turquoise, coral orange, sunny yellow, sand, deep navy), warm sunlight from the top left with soft underwater caustics, clean and readable at small size, no text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]
